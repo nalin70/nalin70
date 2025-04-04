@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ### Hi there 👋
 * 👂 My name is Nalin Dewangan
 * 🔭 I’m currently working on React.js
