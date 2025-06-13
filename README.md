@@ -1,11 +1,10 @@
 ### Hi there 👋
 * 👂 My name is Nalin Dewangan
-* 🔭 I’m currently working on React.js
+* 🔭 I’m currently working on Node.js
 * 🌱 I’m currently learning Spring Boot
 * 🤝 I’m looking to collaborate on MERN Stack
 * 💬 Ask me about my previos projects
 * 📫 How to reach me: dewangannalin@gmail.com
-* ❤️ I love cricket and music
 <!--
 **nalin70/nalin70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
