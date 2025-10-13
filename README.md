@@ -10,6 +10,7 @@
 ![Nalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalin70&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalin70&layout=compact)
 ![Nalin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nalin70&theme=github-compact)
+![Nalin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nalin70&theme=github-compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=nalin70)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **nalin70/nalin70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
