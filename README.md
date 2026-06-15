@@ -1,4 +1,5 @@
 # Hi 👋, I'm Nalin Dewangan
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
 
 <h3 align="center">Backend Developer | Node.js Engineer | API & System Design Enthusiast</h3>
 
