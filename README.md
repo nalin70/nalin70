@@ -1,5 +1,11 @@
 # Hi 👋, I'm Nalin Dewangan
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
+</p>
 
 <h3 align="center">Backend Developer | Node.js Engineer | API & System Design Enthusiast</h3>
 
