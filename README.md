@@ -75,9 +75,9 @@ Building scalable APIs, automation systems, and backend architectures.
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aka-0803&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nalin70&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-0803&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalin70&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -93,7 +93,7 @@ Building scalable APIs, automation systems, and backend architectures.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aka-0803&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nalin70&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@ Building scalable APIs, automation systems, and backend architectures.
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aka-0803&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nalin70&theme=tokyo-night"/>
 </p>
 
 ---
@@ -151,12 +151,12 @@ Enterprise-ready backend architecture supporting multiple organizations.
 
 <p align="center">
 
-<a href="https://github.com/aka-0803">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aka-0803&repo=REPO_NAME_1&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/nalin70">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nalin70&repo=REPO_NAME_1&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/aka-0803">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aka-0803&repo=REPO_NAME_2&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/nalin70">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nalin70&repo=REPO_NAME_2&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
