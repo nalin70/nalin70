@@ -1,4 +1,7 @@
 # Hi 👋, I'm Nalin Dewangan
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5wYzY5cTR4dG5hdXFsN2M2MmZ2N3Zpb2NocWl4aWZ4bjdjcGxjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="450"/>
+</p>
 
 <h3 align="center">Backend Developer | Node.js Engineer | API & System Design Enthusiast</h3>
 
