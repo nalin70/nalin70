@@ -1,54 +1,83 @@
+<div align="center">
+
 # Hi 👋, I'm Nalin Dewangan
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
-</p>
+### Backend Developer | Node.js Engineer | System Design Enthusiast
 
-<h3 align="center">Backend Developer | Node.js Engineer | API & System Design Enthusiast</h3>
+Building scalable APIs, automation systems, and backend architectures.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+APIs;Learning+Spring+Boot+and+System+Design" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+REST+APIs;Automation+%26+Distributed+Systems;Learning+Spring+Boot+%26+Microservices" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=aka-0803&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 💼 Backend Developer focused on scalable APIs and distributed systems
-* 🔭 Currently working with **Node.js**, **Express.js**, **MongoDB**, and **MySQL**
-* 🌱 Learning **Spring Boot**, **Java**, and **Microservices**
-* ⚡ Interested in **System Design**, **Backend Architecture**, and **Automation**
-* 🎯 Goal: Become a highly skilled Backend Engineer
+* 💼 Backend Developer focused on scalable applications and API development
+* 🔭 Currently working with **Node.js, Express.js, MongoDB, MySQL**
+* 🌱 Learning **Spring Boot, Java, Microservices & System Design**
+* ⚡ Passionate about clean architecture, automation, and backend optimization
+* 🎯 Goal: Build highly scalable distributed systems
 
 ---
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql,mongodb,postgres" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
 
 ### DevOps & Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode" />
-</p>
 
-### Currently Learning
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,kafka,redis" />
-</p>
+---
+
+## ⚡ Backend Expertise
+
+```text
+✓ REST API Development
+✓ Authentication & Authorization (JWT)
+✓ Database Design
+✓ Multi-Tenant Applications
+✓ Cron Jobs & Automation
+✓ WebSockets
+✓ Backend Performance Optimization
+✓ Docker Deployment
+✓ System Design Fundamentals
+```
+
+---
+
+## 🎯 Current Focus
+
+* 🚀 Spring Boot
+* 🏗 Microservices Architecture
+* ⚡ Redis Caching
+* 📚 System Design
+* 🧠 DSA for Backend Interviews
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aka-0803&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-0803&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -56,23 +85,23 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+<img src="https://streak-stats.demolab.com?user=aka-0803&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=aka-0803&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aka-0803&theme=tokyo-night"/>
 </p>
 
 ---
@@ -81,55 +110,75 @@
 
 ### 🤖 Automation Hub
 
-A modular automation platform built with Node.js.
+Modular automation platform for scheduling and executing workflows.
 
-**Features**
+**Highlights**
 
 * Cron Job Scheduling
 * Logging & Monitoring
 * API Integrations
-* Modular Architecture
+* Scalable Module Architecture
 
 ---
 
-### 💬 Real-Time Chat Application
+### 💬 Real-Time Chat Platform
 
-Real-time communication platform with room management.
+Room-based real-time communication system.
 
-**Features**
+**Highlights**
 
 * WebSockets
+* Group & Private Chats
 * Real-Time Messaging
-* Group & Private Rooms
-* Scalable Architecture
+* Backend Event Handling
 
 ---
 
 ### 🏢 Multi-Tenant Employee Management System
 
-**Features**
+Enterprise-ready backend architecture supporting multiple organizations.
 
-* Multi-Company Support
+**Highlights**
+
+* Multi-Tenant Design
 * Employment History Tracking
-* REST APIs
-* Relational Database Design
+* Secure Authentication
+* Relational Database Modeling
 
 ---
 
-## 📫 Connect With Me
-
-<p>
-<a href="mailto:dewangannalin@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
-
----
+## 📌 Featured Repositories
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views" />
+
+<a href="https://github.com/aka-0803">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aka-0803&repo=REPO_NAME_1&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/aka-0803">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aka-0803&repo=REPO_NAME_2&theme=tokyonight&hide_border=true"/>
+</a>
+
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:dewangannalin@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "First, make it work. Then, make it scalable."
+
+</div>
