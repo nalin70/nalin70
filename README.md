@@ -170,7 +170,7 @@ Enterprise-ready backend architecture supporting multiple organizations.
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+<a href="https://linkedin.com/in/nalin-dewangan">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
